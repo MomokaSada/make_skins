@@ -1,0 +1,23 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "momoka_skin_pack",
+        "uuid": "3cdd26d6-bb13-42b0-8e8c-1ae0f3a2f879",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "skin_pack",
+            "uuid": "54fa5f70-e8e4-4d31-9e45-cc631becfe99",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}

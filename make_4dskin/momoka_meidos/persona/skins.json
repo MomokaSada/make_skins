@@ -1,0 +1,36 @@
+{
+  "skins": [
+    {
+      "localization_name": "4DTemplate1",
+      "geometry": "geometry.4DTemplate1",
+      "texture": "temp1.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DTemplate2",
+      "geometry": "geometry.4DTemplate2",
+      "texture": "temp2.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DTemplate3",
+      "geometry": "geometry.4DTemplate3",
+      "texture": "temp3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DTemplate4",
+      "geometry": "geometry.4DTemplate4",
+      "texture": "temp4.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "4DTemplate5",
+      "geometry": "geometry.4DTemplate5",
+      "texture": "temp1.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "maidskin",
+  "localization_name": "maidskin"
+}

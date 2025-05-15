@@ -1,0 +1,48 @@
+{
+  "skins": [
+    {
+      "localization_name": "normal_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "normal_momoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "sleepr_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "sleepr_momoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "true_parker_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "true_parker_momoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "false_Parker_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "false_Parker_momoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "penguin_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "penguin_momoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Halloween_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Halloween_momoka.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Xmas_momoka",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "Xmas_momoka.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "momoka_skin_pack",
+  "localization_name": "momoka_skin_pack"
+}
